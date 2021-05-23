@@ -1,4 +1,4 @@
-project_name = "project-foo-123456"
+project_name = "terraform-9999"
 region = "us-central1"
 zone = "us-central1-a"
 gcr_region = "us"
